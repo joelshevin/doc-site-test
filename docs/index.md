@@ -6,3 +6,5 @@
 - People
 
 - Tech
+
+- Other
