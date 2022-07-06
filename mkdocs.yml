@@ -1,0 +1,26 @@
+site_name: Test Doc Site
+repo_url: https://github.com/joelshevin/doc-site-test
+repo_name: joelshevin/doc-site-test
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+nav:
+  - Home:
+    - Home: index.md
+  # - People:
+  # - Technology:
+theme:
+  name: material
+  palette:
+    scheme: slate
+    primary: orange
+    accent: green
+  features:
+    - navigation.expand
+    - navigation.indexes
+    - navigation.instant
+    - navigation.tabs
+    - navigation.tabs.sticky
+  icon:
+    repo: fontawesome/brands/github
