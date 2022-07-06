@@ -2,3 +2,7 @@
 ---
 
 - [Welcome]
+
+- People
+
+- Tech
